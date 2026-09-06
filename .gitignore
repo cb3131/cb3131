@@ -1,0 +1,19 @@
+# Rojo build output
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+build.rbxlx
+
+# Generated Luau LSP / tooling artifacts
+sourcemap.json
+globalTypes.d.luau
+
+# Wally packages
+/Packages
+/ServerPackages
+/DevPackages
+wally.lock
+
+# OS / editor cruft
+.DS_Store

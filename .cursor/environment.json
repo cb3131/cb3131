@@ -1,0 +1,16 @@
+{
+  "name": "Roblox / Luau (Rojo)",
+  "install": "./.cursor/install.sh",
+  "terminals": [
+    {
+      "name": "rojo-serve",
+      "command": "export PATH=\"$HOME/.rokit/bin:$PATH\"; rojo serve default.project.json --address 0.0.0.0"
+    }
+  ],
+  "ports": [
+    {
+      "name": "rojo",
+      "port": 34872
+    }
+  ]
+}
